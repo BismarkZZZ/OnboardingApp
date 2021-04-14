@@ -11,9 +11,9 @@ class App extends Component {
     return (
       <View style={styles.container}>
 
-        {/* <AddCart /> */}
+        <AddCart />
         {/* <OnlineShopping /> */}
-        <PaymentSucessful />
+        {/* <PaymentSucessful /> */}
 
         <StatusBar style="auto" />
       </View>
